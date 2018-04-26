@@ -1,0 +1,27 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>wget [WIN]</name>
+    <category>scripts</category>
+    <description>Downloads a file from FTP or HTTP</description>
+    <uid>ab80df41-7d13-43a0-b80d-fc84388aeb73</uid>
+    <hash />
+    <version>3</version>
+    <timeout>3600</timeout>
+    <securityLevel>1</securityLevel>
+    <installType>batch</installType>
+  </general>
+  <variable idx='0'>
+    <name>url</name>
+    <type>string</type>
+    <direction>false</direction>
+    <description>URL to download</description>
+    <defaultVal></defaultVal>
+  </variable>
+  <variable idx='1'>
+    <name>file</name>
+    <type>string</type>
+    <direction>false</direction>
+    <description>Output file, i.e., c:\myfile.iso</description>
+    <defaultVal></defaultVal>
+  </variable>
+</component>

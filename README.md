@@ -2,7 +2,9 @@
 AEM component to run wget to download HTTP/FTP file. Tested on Win10 Pro only.
 
 # Usage #
-Put the URL in the URL variable and the desired output file in the file variable.
+Put the URL in the URL variable and the desired output file in the file variable. 
+
+IT WILL OVERWRITE THE FILE SPECIFIED.
 
 See wget COPYING for wget license.
 

@@ -9,4 +9,4 @@ See wget COPYING for wget license.
 See https://eternallybored.org/misc/wget/1.19.4/wget.html or Google "man wget" for advanced usage of wget.
 
 # Building #
-Download or fork, run repackage.bat and upload aem-component.cpt to AEM. You can also download the aem-component.zip straight from this repository and install in your AEM instance.
+Download or fork, run repackage.bat and upload aem-component.cpt to AEM. You can also download the aem-component.cpt straight from this repository and install in your AEM instance.
